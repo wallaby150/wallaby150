@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### My Portfolio : 🗒️[Notion](https://inexpensive-age-37f.notion.site/Go-Young-Il-5668d6221bfc4e358ddb3b536a681b44)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wallaby150)](https://solved.ac/wallaby150/)
 
 
