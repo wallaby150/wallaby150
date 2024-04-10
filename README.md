@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### - My Portfolio : 🗒️[PDF](https://drive.google.com/file/d/1uKASwLOAO5p_zS7-hpi3ZLc3J3z9mCT7/view?usp=sharing)
+### - My Portfolio : 🗒️[PDF](https://drive.google.com/file/d/17MmzPedfvz-p3KmJBgujUQ_6GvkFlOPD/view?usp=sharing)
 ### - My Notion : 💼[Notion](https://inexpensive-age-37f.notion.site/Go-Young-Il-5668d6221bfc4e358ddb3b536a681b44)
 ### - My BLOG : 🏠[NAVER_ALGORITHM](https://blog.naver.com/octover1025)
 
