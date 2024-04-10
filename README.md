@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-### My Portfolio : 🗒️[Notion](https://inexpensive-age-37f.notion.site/Go-Young-Il-5668d6221bfc4e358ddb3b536a681b44)
-### My BLOG : 🗒️[NAVER](https://blog.naver.com/octover1025)
+### - My Portfolio : 🗒️[PDF](https://drive.google.com/file/d/1uKASwLOAO5p_zS7-hpi3ZLc3J3z9mCT7/view?usp=sharing)
+### - My Notion : 💼[Notion](https://inexpensive-age-37f.notion.site/Go-Young-Il-5668d6221bfc4e358ddb3b536a681b44)
+### - My BLOG : 🏠[NAVER_ALGORITHM](https://blog.naver.com/octover1025)
+
+<br/>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wallaby150)](https://solved.ac/wallaby150/)
+
+<br/>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
